@@ -63,16 +63,16 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 
 "lng_cancel" = "Відміна";
 "lng_continue" = "Продовжити";
-"lng_close" = "Закритиe";
+"lng_close" = "Закрити";
 "lng_connecting" = "З'єднання..";
 "lng_reconnecting" = "Перепідключення {count:now|in # s|in # s}..";
 "lng_reconnecting_try_now" = "Спробувати ще";
 
 "lng_status_service_notifications" = "сервісне повідомлення";
 "lng_status_offline" = "востаннє бачили давно";
-"lng_status_recently" = "востаннє бачили недавно";
-"lng_status_last_week" = "востаннє бачили протягом тижня";
-"lng_status_last_month" = "востаннє бачили протягом місяця";
+"lng_status_recently" = "востаннє бачили нещодавно";
+"lng_status_last_week" = "востаннє бачили упродовж тижня";
+"lng_status_last_month" = "востаннє бачили упродовж місяця";
 "lng_status_invisible" = "невидимий";
 "lng_status_lastseen_now" = "востаннє бачили тільки що";
 "lng_status_lastseen_minutes" = "востаннє бачили {count:_not_used_|# minute|# minutes} ago";
@@ -81,7 +81,7 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_status_lastseen_yesterday" = "востаннє бачили вчора о {time}";
 "lng_status_lastseen_date" = "востаннє бачили {date}";
 "lng_status_lastseen_date_time" = "востаннє бачили {date} о {time}";
-"lng_status_online" = "в мержі";
+"lng_status_online" = "в мережі";
 "lng_status_connecting" = "підключення..";
 
 "lng_chat_status_unaccessible" = "група недоступна";
@@ -92,7 +92,7 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_flood_error" = "Занадто багато спроб. Будь ласка, спробуйте пізніше.";
 "lng_deleted" = "Невідомо";
 
-"lng_intro" = "Ласкаво просимо на офіційний [a href=\"https://telegram.org/\"]Telegram[/a] настільний додаток.\nIt's [b]fast[/b] and [b]secure[/b].";
+"lng_intro" = "Ласкаво просимо до офіційного настільного додатку [a href=\"https://telegram.org/\"]Telegram[/a].\nЦе [b]швидко[/b] та [b]безпечно[/b].";
 "lng_start_msgs" = "ПОЧАТИ ЛИСТУВАННЯ";
 
 "lng_intro_next" = "НАСТУПНИЙ";
@@ -101,7 +101,7 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_phone_ph" = "Ваш номер телефону";
 "lng_phone_title" = "Ваш телефон";
 "lng_phone_desc" = "Будь ласка, підтвердіть свій код країни та\nвведіть свій номер телефону.";
-"lng_phone_notreg" = "Зверніть увагу: якщо ви не маєте облікового запису телеграму \nбудь ласка [b]sign up[/b] з [a href=\"https://telegram.org/\"]iOS / Android[/a] або {signup_start}тут »{signup_end}";
+"lng_phone_notreg" = "Зверніть увагу: якщо ви не маєте облікового запису телеграму, \nбудь ласка [b]зареєструйтесь[/b] з [a href=\"https://telegram.org/\"]iOS / Android[/a] або {signup_start}тут »{signup_end}";
 "lng_country_code" = "код країни";
 "lng_bad_country_code" = "Невірний код країни";
 "lng_country_ph" = "Пошук";
@@ -110,10 +110,10 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_country_select" = "Вибір країни";
 
 "lng_code_ph" = "Ваш код";
-"lng_code_desc" = "Ми відправили вам повідомлення з активацією \ nкод на на телефон. Будь ласка, введіть його нижче.";
-"lng_code_call" = "Telegram набире ваш номер через {minutes}:{seconds}";
+"lng_code_desc" = "Ми відправили вам повідомлення з активацією \nна телефон. Будь ласка, введіть його нижче.";
+"lng_code_call" = "Telegram зателефонує Вам через {minutes}:{seconds}";
 "lng_code_calling" = "Запит дзвінка від Telegram..";
-"lng_code_called" = "Telegram набирає ваш номер";
+"lng_code_called" = "Telegram телефонує на Ваш номер";
 
 "lng_bad_phone" = "Невірний номер телефону. Будь ласка, спробуйте ще раз.";
 "lng_bad_phone_noreg" = "Телефон не зареєстрований.";
@@ -133,16 +133,16 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_dlg_new_group_name" = "Назва групи";
 "lng_dlg_create_group" = "Створити";
 "lng_no_contacts" = "У вас немає контактів";
-"lng_contacts_loading" = "Завантаження..";
+"lng_contacts_loading" = "Завантаження...";
 "lng_contacts_not_found" = "Контакти не знайдені";
 
 "lng_settings_save" = "Зберегти";
 "lng_settings_upload" = "Встановити фото профілю";
-"lng_settings_crop_profile" = "Виберіть квадратну область для своєї фотографією в профілі";
+"lng_settings_crop_profile" = "Виберіть квадратну область для своєї фотографії в профілі";
 "lng_settings_uploading_photo" = "Завантаження фото..";
 
 "lng_username_title" = "Змінити ім'я користувача";
-"lng_username_about" = "Ви можете вибрати ім'я користувача для Telegram.\nЯкщо ви це зробите, інші люди зможуть знайти\nВас за цим ім'м і зв'язатися з вами,\n, не знаючи Ваш номер телефону.\n\nВи можете використовувати AZ, 0-9 та підкреслення.\nМінімальна довжина становить 5 символів.";
+"lng_username_about" = "Ви можете вибрати ім'я користувача для Telegram.\nЯкщо ви це зробите, інші люди зможуть знайти\nВас за цим іменем та зв'язатися з вами,\n, не знаючи Ваш номер телефону.\n\nВи можете використовувати AZ, 0-9 та підкреслення.\nМінімальна довжина становить 5 символів.";
 "lng_username_invalid" = "Це ім'я є недійсне.";
 "lng_username_occupied" = "Це ім'я вже зайняте.";
 "lng_username_too_short" = "Це ім'я є занадто коротким.";
@@ -173,15 +173,15 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_settings_check_now" = "Перевірити оновлення";
 "lng_settings_update_checking" = "Перевірка оновлення..";
 "lng_settings_latest_installed" = "Встановлено останню версію";
-"lng_settings_downloading" = "Завантаження оновлення {ready} / {total} Mb..";
+"lng_settings_downloading" = "Завантаження оновлення {ready} / {total} МБ..";
 "lng_settings_update_ready" = "Нова версія готова";
 "lng_settings_update_now" = "Перезавантажити зараз";
 "lng_settings_update_fail" = "Не вдалося перевірити оновлення :(";
 "lng_settings_workmode_tray" = "Показати іконку в треї";
 "lng_settings_workmode_window" = "Показати значок на панелі завдань";
 "lng_settings_auto_start" = "Запустити Telegram при старті системи";
-"lng_settings_start_min" = "Пуск мінімізjdfybq";
-"lng_settings_add_sendto" = "Розмістити Telegram в меню «Send to»";
+"lng_settings_start_min" = "Запускати мінімізованим";
+"lng_settings_add_sendto" = "Розмістити Telegram в меню «Відправити»";
 "lng_settings_scale_label" = "масштаб Інтерфейс";
 "lng_settings_scale_auto" = "Авто ({cur})";
 
@@ -205,15 +205,15 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_download_path_dir_radio" = "Папка користувача, очищається тільки вручну";
 "lng_download_path_choose" = "Вибрати Шлях завантаження";
 "lng_sure_clear_downloads" = "Ви хочете вилучити всі завантажені файли з тимчасової папки? Це робиться автоматично при виході або видалення програми.";
-"lng_download_path_failed" = "Завантаження файлу не може бути запущено. Це може статися через погане розташування завантаження.\n\n Ви можете змінити шляхзавантаження в налаштуваннях.";
-"lng_download_path_settings" = "Перейти до налаштування";
+"lng_download_path_failed" = "Завантаження файлу не може бути запущено. Це може статися через погане розташування завантаження.\n\n Ви можете змінити шлях завантаження в налаштуваннях.";
+"lng_download_path_settings" = "Перейти до налаштувань";
 "lng_download_finish_failed" = "Завантаження файлу не може бути завершене.\n\nХотіли б ви спробувати ще раз?";
 "lng_download_path_clearing" = "Очищення..";
 "lng_download_path_cleared" = "Очищено!";
 "lng_download_path_clear_failed" = "Очищення не вдалося :(";
 
 "lng_settings_section_cache" = "локальне зберігання даних";
-"lng_settings_no_data_cached" = "Не знайдено кешированих даних!";
+"lng_settings_no_data_cached" = "Не знайдено кешованих даних!";
 "lng_settings_images_cached" = "{count:_not_used_|# image|# images}, {size}";
 "lng_settings_audios_cached" = "{count:_not_used_|# voice message|# voice messages}, {size}";
 "lng_local_storage_clear" = "Очистити все";
@@ -228,22 +228,22 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_connection_http_proxy" = "HTTP with proxy";
 "lng_connection_tcp_proxy" = "TCP with proxy";
 "lng_connection_header" = "Тип з'єднання";
-"lng_connection_auto_rb" = "Авто (TCP if available or HTTP)";
-"lng_connection_http_proxy_rb" = "HTTP with custom http-proxy";
-"lng_connection_tcp_proxy_rb" = "TCP with custom socks5-proxy";
+"lng_connection_auto_rb" = "Авто (TCP якщо можливо, чи HTTP)";
+"lng_connection_http_proxy_rb" = "HTTP з користувацьким http-проксі";
+"lng_connection_tcp_proxy_rb" = "TCP з користувацьким socks5-проксі";
 "lng_connection_host_ph" = "Ім'я хоста";
 "lng_connection_port_ph" = "Порт";
 "lng_connection_user_ph" = "Ім'я користувача";
 "lng_connection_password_ph" = "Пароль";
 "lng_connection_save" = "Зберегти";
-"lng_settings_reset" = "Завершити інші сессії";
+"lng_settings_reset" = "Завершити інші сесії";
 "lng_settings_reset_sure" = "Ви впевнені, що хочете завершити всі інші сесії?";
 "lng_settings_reset_button" = "Завершити";
-"lng_settings_reset_done" = "Інші сессії завершено";
+"lng_settings_reset_done" = "Інші сесії завершено";
 "lng_settings_logout" = "Вихід";
 "lng_sure_logout" = "Ви впевнені, що хочете вийти?";
 
-"lng_settings_need_restart" = "Вам необхідно перезавантажити для застосування\nдеякі з нових налаштувань. Перезавантажити зараз?";
+"lng_settings_need_restart" = "Вам необхідно перезавантажити для застосування\nдеяких нових налаштувань. Перезавантажити зараз?";
 "lng_settings_restart_now" = "Перезавантаження";
 "lng_settings_restart_later" = "Пізніше";
 
@@ -253,7 +253,7 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_profile_participants_section" = "Учасники";
 "lng_profile_info" = "Контактна інформація";
 "lng_profile_group_info" = "Інформація про групу";
-"lng_profile_add_contact" = "Добавити контакт";
+"lng_profile_add_contact" = "Додати контакт";
 "lng_profile_edit_contact" = "Редагувати";
 "lng_profile_enable_notifications" = "Повідомлення";
 "lng_profile_clear_history" = "Очистити історію";
@@ -290,7 +290,7 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 
 "lng_sure_delete_and_exit" = "Ви впевнені, що хочете видалити всі повідомленнята залишити «{group}»?\n\nЦя дія не може бути скасоване.";
 
-"lng_sure_enable_debug" = "Db хочете включити режим налагодження?\n\nВсі мережеві події будуть реєструватися.";
+"lng_sure_enable_debug" = "Ви хочете включити режим налагодження?\n\nВсі мережеві події будуть реєструватися.";
 
 "lng_message_empty" = "(пусто)";
 
@@ -338,9 +338,9 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_from_you" = "Ви";
 
 "lng_typing" = "набір";
-"lng_user_typing" = "{user} наберає";
-"lng_users_typing" = "{user} та {second_user} наберає";
-"lng_many_typing" = "{count:_not_used_|# is|# are} наберає";
+"lng_user_typing" = "{user} набирає";
+"lng_users_typing" = "{user} та {second_user} набирає";
+"lng_many_typing" = "{count:_not_used_|# is|# are} набирає";
 "lng_unread_bar" = "{count:_not_used_|# unread message|# unread messages}";
 
 "lng_maps_point" = "Розташування";
@@ -356,8 +356,8 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_context_copy_link" = "Копіювати посилання";
 "lng_context_open_email" = "Написати на цю адресу";
 "lng_context_copy_email" = "Копіювати адресу електронної пошти";
-"lng_context_open_hashtag" = "Пошук по хештегом";
-"lng_context_copy_hashtag" = "Копіювати хештегом";
+"lng_context_open_hashtag" = "Пошук за хештегом";
+"lng_context_copy_hashtag" = "Копіювати хештег";
 "lng_context_open_image" = "Відкрити зображення";
 "lng_context_save_image" = "Зберегти зображення як..";
 "lng_context_forward_image" = "Переслати зображення";
@@ -387,9 +387,9 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_context_delete_selected" = "Видалити вибране";
 "lng_context_clear_selection" = "Очистити вибране";
 "lng_really_send_image" = "Ви хочете, відправити це фото?";
-"lng_really_send_file" = "Ви хочете, відправити цеq afqk??";
+"lng_really_send_file" = "Ви хочете, відправити цеq файл?";
 "lng_really_share_contact" = "Хочете поділитися цим контактом?";
-"lng_send_image_compressed" = "Відправити стислий образ";
+"lng_send_image_compressed" = "Відправити стисле зображення";
 
 "lng_forward_choose" = "Виберіть одержувача..";
 "lng_forward_confirm" = "Переслати {recipient}?";
@@ -408,7 +408,7 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_add_contact" = "Створити";
 "lng_add_contact_button" = "Додати Контакт";
 "lng_contacts_header" = "Контактb";
-"lng_contact_not_joined" = "На жаль {name} ще не приєднався до Telegram, але ви можете відправити своєму другу запрошення.\n\nМи Вас повідомлемо коли хтось з Ваших контактів приєднається до Telegram.";
+"lng_contact_not_joined" = "На жаль {name} ще не приєднався до Telegram, але ви можете відправити своєму другу запрошення.\n\nМи Вас повідомимо, коли хтось з Ваших контактів приєднається до Telegram.";
 "lng_try_other_contact" = "Спробуйте інші";
 "lng_contacts_done" = "Скасувати";
 
@@ -430,7 +430,7 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_selected_delete_confirm" = "Видалити";
 
 "lng_about_version" = "Версія {version}";
-"lng_about_text" = "Офіційний безкоштовний додаток обміну повідомленнями заснований на [a href=\"https://core.telegram.org/mtproto\"]MTProto[/a] та\n[a href=\"https://core.telegram.org/api\"]Telegram API[/a] для швидкості і безпеки\n\nЦе програмне забезпечення ліцензується під [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] версією 3,\nВихідний код доступний на [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a].";
+"lng_about_text" = "Офіційний безкоштовний додаток обміну повідомленнями, створений на [a href=\"https://core.telegram.org/mtproto\"]MTProto[/a] та\n[a href=\"https://core.telegram.org/api\"]Telegram API[/a] для швидкості і безпеки\n\nЦе програмне забезпечення ліцензується під [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] версією 3,\nВихідний код доступний на [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a].";
 "lng_about_done" = "Pроблено";
 
 "lng_search_found_results" = "{count:No messages found|Found # message|Found # messages}";
@@ -450,7 +450,7 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 
 "lng_mediaview_saved" = "Зображення було збережено у [c]Downloads[/c] каталог";
 
-"lng_new_authorization" = "{name},\nМи виявили приєднання до вашогорахунку з нового пристрою у {day}, {date} о {time}\n\nПристрій: {device}\nРозташування: {location}\n\nЯкщо це було не Ви, то Ви можете перейти в Настройки - Завершіть всі інші заняття.\n\nThanks,\nThe Telegram Team";
+"lng_new_authorization" = "{name},\nМи виявили приєднання до вашого акаунту з нового пристрою у {day}, {date} о {time}\n\nПристрій: {device}\nРозташування: {location}\n\nЯкщо це були не Ви, то Ви можете перейти в Налаштування - Завершити інші сесії\n\nДякуємо,\nкоманда Telegram.";
 
 "lng_new_version7007" = "Telegram Desktop було оновлено до версії {version}\n\n — Іконка в треї додана в Ubuntu\n\nПовна історія версій доступна тут:\n{link}";
 "lng_new_version7006_appstore" = "Telegram Desktop було оновлено до версії {version}\n\n — Підтримка наклейки\n — Локальне кешування для голосових повідомлень\n — Додані нові мови\n\nПовна історія версій доступна тут:\n{link}";
@@ -463,7 +463,7 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_mac_recommended_apps" = "Рекомендований додаток";
 "lng_mac_all_apps" = "Всі додатки";
 "lng_mac_always_open_with" = "Завжди відкривати p";
-"lng_mac_this_app_can_open" = "Wtq додаток може відкрити \"{file}\".";
+"lng_mac_this_app_can_open" = "Цей додаток може відкрити \"{file}\".";
 "lng_mac_not_known_app" = "Чи не відомо, чи може відкрити цей додаток \"{file}\".";
 
 "lng_mac_menu_services" = "Сервіси";
